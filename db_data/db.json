@@ -1,0 +1,36 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "name":"Angular",
+            "course_price":"400",
+            "in_stock":true
+        },
+        {
+            "id":"2",
+            "name":"Django",
+            "course_price":"800",
+            "in_stock":false
+
+        },
+        {
+            "id":"3",
+            "name":"blockChain",
+            "course_price":"900",
+            "in_stock":true
+        },
+        {
+            "id":"4",
+            "name":"react course",
+            "course_price":"500",
+            "in_stock":false
+        },
+        {
+            "id":"5",
+            "name":"vue",
+            "course_price":"500",
+            "in_stock":false
+        }
+
+    ]
+}
